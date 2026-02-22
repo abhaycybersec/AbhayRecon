@@ -1,5 +1,9 @@
 🔥 AbhayRecon
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Python](https://img.shields.io/badge/python-3.9+-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
 AbhayRecon is a Python-based OSINT and reconnaissance automation tool that collects publicly available information about a target domain or IP address in a structured and efficient way.
 
 It is designed for educational use and cybersecurity practice.
